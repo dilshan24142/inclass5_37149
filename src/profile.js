@@ -2,6 +2,6 @@
 export const profile = {
   name: 'Sachintha Dilshan Daluwaththage',
   studentId: '37149',
-  email: 'sachintha@students.nsbm.ac.lk',
+  email: 'dilshans626@gmail.com',
   university: 'NSBM Green University',
 };
